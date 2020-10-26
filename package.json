@@ -1,0 +1,19 @@
+{
+  "name": "personal-blog",
+  "version": "1.0.0",
+  "description": "a simple soul food blogging site",
+  "main": "none",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamara-moses/personal-blog.git"
+  },
+  "author": "Moses Kamara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamara-moses/personal-blog/issues"
+  },
+  "homepage": "https://github.com/kamara-moses/personal-blog#readme"
+}
